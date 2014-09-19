@@ -32,6 +32,7 @@ Introduction to Logistic Regression
 Introduction to Python
 ----
 [Course from Coursera](https://www.coursera.org/course/interactivepython). This does not require you to download and install Python. They have a version for the course that runs off the browser interactively.
+
 [The best intro I think, from Python Docs](https://docs.python.org/2/tutorial/introduction.html)
 
 Introduction to the Numpy module in Python
