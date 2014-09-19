@@ -7,12 +7,11 @@ To view this notebook online click on this [this link](http://nbviewer.ipython.o
 
 Installing tools required for this Notebook to run on your system.
 ----
-Markup:
-1. Python
-2. Numpy
-3. Scipy
-4. Pandas
-5. Scikit-Learn
+	1. Python
+	2. Numpy
+	3. Scipy
+	4. Pandas
+	5. Scikit-Learn
 
 Installation methods vary depending on the Operating System. [Here](http://blog.yhathq.com/posts/setting-up-scientific-python.html) is a great link on completing a setup in Python for scientific purposes. 
 
