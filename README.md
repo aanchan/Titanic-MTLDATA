@@ -27,6 +27,7 @@ Read about it [here](https://www.kaggle.com/c/titanic-gettingStarted)
 Introduction to Logistic Regression
 ----
 [A Simple Explanation from Duke Medicine](https://www.youtube.com/watch?v=_Po-xZJflPM)
+
 [Logistic Regression for Classification](http://youtu.be/nMcxOiVj7oE)
 
 Introduction to Python
