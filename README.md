@@ -33,5 +33,4 @@ Introduction to Scikit-Learn
 
 Introduction to Pandas
 ---
-
-
+The [Python Pandas Cookbook Lecture Series](http://www.youtube.com/playlist?list=PLyBBc46Y6aAz54aOUgKXXyTcEmpMisAq3) on Youtube by Alfred Essa is a good place to start. Specifically to load our Titanic data set Alfred Essa talks about it [here](https://www.youtube.com/watch?v=lhkchS9gSYk#t=545) in Lesson 1.2.
