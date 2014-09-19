@@ -8,8 +8,8 @@ To view this notebook online click on this [this link](http://nbviewer.ipython.o
 Installing tools required for this Notebook to run on your system.
 ----
 	1. Python
-	2. IPython 
-	   (Optional since you could run the Python commands from the IPython notebook in a Python interpreter native to your system)
+	2. IPython (Optional since you could run the Python commands from the IPython 
+	   	   notebook on your native Python interpreter)
 	3. Numpy
 	4. Scipy
 	5. Pandas
