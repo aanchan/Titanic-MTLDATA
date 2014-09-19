@@ -6,6 +6,8 @@ The goal of this IPython Notebook is to introduce you to some tools in Python fo
 To view this notebook online click on this [this link](http://nbviewer.ipython.org/github/aanchan/Titanic-MTLDATA/blob/master/akTitanicSKLearn.ipynb). This IPython notebook above assumes that you already have some facility in working with Python.
 
 Installing tools required for this Notebook to run on your system.
+----
+Markup:
 1. Python
 2. Numpy
 3. Scipy
