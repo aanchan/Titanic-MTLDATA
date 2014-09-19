@@ -49,7 +49,11 @@ The [Python Pandas Cookbook Lecture Series](http://www.youtube.com/playlist?list
 Other useful resources
 ----
 [A tutorial from Kaggle on Python](https://www.kaggle.com/c/titanic-gettingStarted/details/getting-started-with-python)
+
 [A tutorial from Kaggle on Pandas](https://www.kaggle.com/c/titanic-gettingStarted/details/getting-started-with-python-ii)
+
 [A tutorial from Kaggle on SKLearn](https://www.kaggle.com/c/titanic-gettingStarted/details/getting-started-with-random-forests)
+
 [An SKLearn Notebook](http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab4/Lab4full.ipynb)
+
 [A Fancy Notebook](http://nbviewer.ipython.org/github/agconti/kaggle-titanic/blob/master/Titanic.ipynb) showing off many aspects of the Titanic data problem
